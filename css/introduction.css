@@ -1,0 +1,11 @@
+#picture1 {
+  display: inline-block;
+  margin-left: 25%;
+  width: 20%;
+}
+#picture2 {
+  position: absolute;
+  display: inline-block;
+  margin-left: 5%;
+  width: 20%;
+}
